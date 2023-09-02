@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm anders130</h1>
 <h3 align="center">I love C# and .NET</h3>
 
-- 🔭 I’m currently working on [PassOut](https://github.com/anders130/PassOut)
+- 🔭 I’m currently working on [PassOut](https://github.com/anders130/LedControl)
 
 - 🌱 I’m currently learning **ASP.NET**
 
