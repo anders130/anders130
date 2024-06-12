@@ -14,13 +14,14 @@
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=anders130&theme=transparent&show_icons=true"
   alt="anders130's GitHub Stats"
-  height="200px"
+  width="500px"
 />
+
 <img
   align="center"
   src="https://github-readme-streak-stats.herokuapp.com/?user=anders130&&theme=transparent"
   alt="anders130"
-  height="200px"
+  width="500px"
 />
 
 <img
