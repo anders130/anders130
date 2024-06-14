@@ -26,6 +26,6 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=anders130&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&count_private=true&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=anders130&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,glsl&theme=transparent&show_icons=true&count_private=true&layout=compact"
   alt="anders130 Top Langs"
 />
