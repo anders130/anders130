@@ -1,7 +1,6 @@
 # Hi 👋, I'm anders130
-#### I love C# and .NET
 
-- 🔭 I’m currently working on [LumeHub](https://github.com/LumeHub)
+🔭 I’m currently working on [LumeHub](https://github.com/LumeHub)
 
 <h3 align="left">Languages and Tools:</h3>
 
