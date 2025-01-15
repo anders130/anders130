@@ -1,6 +1,8 @@
 # Hi 👋, I'm anders130
 
-🔭 I’m currently working on [LumeHub](https://github.com/LumeHub)
+🔭 I currently work on these projects:
+- [modulix](https://github.com/anders130/modulix) (nix library for managing module based nix code)
+- [LumeHub](https://github.com/LumeHub) (LED control project written in C#)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -18,13 +20,13 @@
 
 <img
   align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=anders130&&theme=transparent"
-  alt="anders130"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=anders130&&theme=transparent"
+  alt="anders130's GitHub Streak"
   width="500px"
 />
 
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=anders130&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,glsl&theme=transparent&show_icons=true&count_private=true&layout=compact"
-  alt="anders130 Top Langs"
+  alt="anders130's Top Langs"
 />
